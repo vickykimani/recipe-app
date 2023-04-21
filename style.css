@@ -74,4 +74,16 @@ img {
     font-weight: 400;
 }
 
-#show-recipe {}
+#show-recipe {
+    font-size: 15px;
+    position: relative;
+    left: 76%;
+    padding: 8px 12px;
+    background-color: rgb(173, 33, 24);
+    border: none;
+    top: 24px;
+    border-radius: 6px;
+    font-weight: 500;
+    cursor: pointer;
+    transition: all 0.3s ease;
+}
