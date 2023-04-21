@@ -41,7 +41,7 @@ function searchMeal() {
             <img src=${meal.strMealThumb} alt=${meal.strMeal} />
 
             <div id = "ingre-container">
-                <h3>Ingredients: </h3>
+                <h3>Ingredients:</h3>
                 <ul>${ingredients}</ul>
             </div>
 
@@ -59,7 +59,6 @@ function searchMeal() {
         hideRecipeBtn.addEventListener("click", hideRecipe);
         const showRecipeBtn = document.getElementById("show-recipe");
         showRecipeBtn.addEventListener("click", showRecipe);
-
         searchContainer.style.opacity = '0';
         searchContainer.style.display = 'none';
     })
