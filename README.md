@@ -10,7 +10,7 @@ Welcome to the Recipe Guide App, a platform for searching and discovering recipe
 
 ## Getting Started
 
-To use this application, simply access the project [here](#). Once you have opened the app, you can start searching for recipes by typing in keywords into the search bar. The app will fetch a recipe based on your search and display the details on the screen. To find another recipe, simply refresh the page.
+To use this application, simply access the project [here](https://vickykimani.github.io/recipe-app/). Once you have opened the app, you can start searching for recipes by typing in keywords into the search bar. The app will fetch a recipe based on your search and display the details on the screen. To find another recipe, simply refresh the page.
 
 ## Technologies Used
 
