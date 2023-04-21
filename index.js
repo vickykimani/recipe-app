@@ -1,7 +1,7 @@
 const resultContainer = document.getElementById("result");
 const searchBtn = document.getElementById("search-button");
 const searchInput = document.getElementById("search-input");
-const searchContainer = document.getElementById("search-box");
+const searchContainer = document.querySelector(".search-box");
 
 // API url to fetch meal data
 const apiUrl = "https://www.themealdb.com/api/json/v1/1/search.php?s=";
