@@ -10,6 +10,12 @@ body {
     background: linear-gradient(#1c1917 50%, #451400 50%);
 }
 
+body h1 {
+    text-align: center;
+    color: #fff;
+    margin-top: 20px;
+}
+
 .container {
     background-color: #1e293b;
     padding: 35px 20px 38px;
